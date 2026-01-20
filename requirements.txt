@@ -1,0 +1,6 @@
+requests>=2.31.0
+openpyxl>=3.1.0
+matplotlib>=3.6.0
+numpy>=1.23.0
+jqdatasdk>=1.8.0
+akshare>=1.11.0
